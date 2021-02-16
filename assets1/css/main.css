@@ -2691,7 +2691,7 @@
 
 		.spotlight.alt {
 			background: #1e1f23;
-			color: rgba(255, 255, 255, 0.25);
+			color: rgba(255, 255, 255, 255);
 			display: -moz-flex;
 			display: -webkit-flex;
 			display: -ms-flex;
@@ -2718,7 +2718,7 @@
 				flex-grow: 0;
 			}
 
-			.spotlight.alt h3 {
+			.spotlight.alt h3{
 				color: #FFF;
 			}
 
